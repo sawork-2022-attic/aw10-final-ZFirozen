@@ -1,0 +1,10 @@
+server:
+  port: 0
+
+spring:
+  application:
+    name: pos-carts
+  cache:
+    type: ehcache
+    ehcache:
+      config: classpath:/ehcache.xml
