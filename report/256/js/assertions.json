@@ -1,0 +1,10 @@
+{
+  "simulation": "gatlingtest.GatlingTestSimulation",
+  "simulationId": "gatlingtestsimulation",
+  "start": 1657204926641,
+  "description": "",
+  "scenarios": ["Testing Web Pos based on Amazon Database DataSource"],
+  "assertions": [
+
+  ]
+}
